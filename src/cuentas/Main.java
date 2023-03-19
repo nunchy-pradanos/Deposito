@@ -10,7 +10,7 @@ package cuentas;
 public class Main {
 /**
  * método main que se ejecuta al lanzar el programa. Contiene el método operativa_cuenta() encargado de realizar las operaciones.
- * @param arg Matriz String que recoge los valores introducidos
+ * @param args Matriz String que recoge los valores introducidos
  */
     public static void main(String[] args) {
         //una instancia de la clase "CCuenta" que representa una cuenta bancaria.

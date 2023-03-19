@@ -7,7 +7,7 @@ package cuentas;
  * titulares pueden ingresar y retirar dinero de la cuenta.
  *
  * @author Nunchy Prádanos
- * @version 1.0
+ * @version 2.0
  */
 public class CCuenta {
 
